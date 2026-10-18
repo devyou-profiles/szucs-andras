@@ -1,0 +1,28 @@
+# Szűcs András – vállalatirányítási rendszer tanácsadó / business systems consultant
+
+> Szűcs András (András Szűcs) is a Budapest-based business systems consultant. Since 2018 he has designed and implemented ERP/CRM systems, process automation, system integrations and AI-supported workflows for more than 30 companies, with deep experience in Zoho CRM. He is also founding president of the youth association DevYou (Fejlődő Fiatalok Egyesülete) and a long-time floorball coach.
+
+The site is bilingual (Hungarian by default, English via the HU/EN switch) and consists of a single page.
+
+## Facts
+- Business systems consultant at ZenCarl Kft. (Zoho partner), 2018 – present; 30+ client companies.
+- Services: ERP and CRM implementation, process design, automating administration, system integration (e.g. Számlázz.hu × Zoho CRM via REST API), AI in everyday operations.
+- Main tools: Zoho CRM, Zoho One, Zoho Creator, Zoho Desk, Zoho Projects, Zoho Analytics, Zoho Flow, Zoho Mail, Deluge, REST API.
+- Education: MSc Business Informatics, Corvinus University of Budapest.
+- Founding president of DevYou (Fejlődő Fiatalok Egyesülete), founded in 2022; around 30 Erasmus+ projects as participant, group leader, facilitator or organiser.
+- Floorball coach of a high-school team since 2006 (3rd place, National Student Olympics); floorball lead for the university sports federations BEFS and MEFS; former U19 national team player.
+- Languages: Hungarian (native), English (B2).
+- Contact: info@smarting.hu · LinkedIn: https://www.linkedin.com/in/andr%C3%A1s-sz%C5%B1cs-174b3134/
+
+## AI solutions for SMEs (each builds on existing systems; a human approves the final step)
+- From a voice message to a job sheet and invoice: a technician's 30-second voice message becomes a job sheet in the CRM and a draft invoice in Számlázz.hu.
+- Service assistant built from the company's own manuals: answers error-code questions only from the company's documents, with the source page shown.
+- Pay an incoming invoice with one scan: AI reads the payment details and creates an MNB-standard QR code for any Hungarian banking app.
+- Turning forgotten leads back into clients: personal two-line drafts for leads inactive for months, sent after human approval.
+- AEO (Answer Engine Optimization): making ChatGPT, Perplexity and Google AI Overviews mention and recommend a business, through structured data (Schema.org), FAQs and factual content.
+
+## Pages
+- [Home](https://szucsandras.personalcv.eu/): what I solve, how I work, AI for SMEs, selected projects, client reviews, community work, about, contact
+- [Europass CV (PDF)](https://szucsandras.personalcv.eu/cv/Szucs_Andras_Europass_CV.pdf)
+- [Client reviews on ZenCarl](https://zencarl.com/hu/testimonials)
+- [DevYou](https://devyou.hu/)
